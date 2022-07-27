@@ -15,7 +15,7 @@ Para clonar o projeto
 
 Para instalar as dependências
 
-    nmp install
+    npm install
 Para executar o projeto
 
     npm start
